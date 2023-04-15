@@ -1,4 +1,4 @@
-# MDA9170-Reinforcement-Learning
+# MDA9170-Reinforcement-Learning-Final-Project
 
   Portfolio Management
 
